@@ -1,25 +1,28 @@
-# Practicas-JSON-4C
+# Practicas-Django-5C
 
 <h1 align="center">Construye Aplicaciones Web CBTis-191</h1>
-Practicas de la materia Implementa bases de datos no relacionales en un sistema de información de la carrera de Programacion 4° sem CBTis 191
+Practicas para la construccion de una aplicacion web 5° sem CBTis 191
 <h1 align="center">Hola Soy, Claudio Peña Barragán 👋</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CBTis+191+Nicolas+Bravo;Profesor+de+Programacion;Ingeniero+en+Sistemas+Computacionales;Implementa+bases+de+datos;no+relacionales+en+un+sistema+de+información;Programación+en+Python;Programación+en+JavaScript+&#128187;Programación+en+MONGODB;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typigong-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CBTis+191+Nicolas+Bravo;Profesor+de+Programacion;Ingeniero+en+Sistemas+Computacionales;Implementa+bases+de+datos;no+relacionales+en+un+sistema+de+información;Programación+en+Python;Programación+en+JavaScript+&#128187;Programación+en+MONGODB;"></a>
 </p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Instalar Django
+ [Pagina oficial Django](https://www.djangoproject.com/download/)
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Opción 1: Obtener la última versión oficial
+La última versión oficial es la 5.2.7 (LTS). Lea las notas de la versión 5.2.7 y luego instálela con pip :
+* Linux/macOS:
   ```sh
-  npm install npm@latest -g
+  python -m pip install Django==5.2.7
   ```
+* Windows:
+  ```sh
+  py -m pip install Django==5.2.7
+  ```
+
 
 ### Installation
 
