@@ -14,11 +14,14 @@ Practicas para la construccion de una aplicacion web 5° sem CBTis 191
 
 <h4>Para obtener la última versión oficial</h4>
 <p>La última versión oficial es la xxxx (LTS). Lea las notas de la versión  y luego instálela con pip :</p>
+
+
 Linux/macOS:
-  ```sh
-  python -m pip install Django==5.2.7
-  ```
-Windows:
+   ```sh
+   python -m pip install Django==5.2.7
+   ```
+ 
+ Windows:
   ```sh
   py -m pip install Django==5.2.7
   ```
