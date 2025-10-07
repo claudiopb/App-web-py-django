@@ -14,26 +14,21 @@ Practicas para la construccion de una aplicacion web 5° sem CBTis 191
 
 <h4>Para obtener la última versión oficial</h4>
 <p>La última versión oficial es la xxxx (LTS). Lea las notas de la versión  y luego instálela con pip :</p>
-* Linux/macOS:
+Linux/macOS:
   ```sh
   python -m pip install Django==5.2.7
   ```
-* Windows:
+Windows:
   ```sh
   py -m pip install Django==5.2.7
   ```
 
 
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
+### Crear un proyecto Django
+<p>Vamos a crear nuestro primer proyecto con Django </p>
+1. Habre un simbolo de sistema de modo administrador.
+   
+2. Install NPM packages
    ```sh
    npm install
    ```
