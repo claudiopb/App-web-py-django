@@ -28,13 +28,13 @@ Linux/macOS:
 
 
 ### Crear un proyecto Django
-<p>Vamos a crear nuestro primer proyecto con Django </p>
 
-1. Habre un simbolo de sistema de modo administrador.
-   
-2. Install NPM packages
+<h3>Mi primer proyecto</h3>
+<p>Una vez que hayas elegido un nombre adecuado para tu proyecto Django, como el mío: proyecto_prueba, navega hasta dónde en el sistema de archivos quieres almacenar el código, navegaré hasta la carpeta practicas y ejecutaré este comando en el símbolo del sistema:</p>
+
+1. Script para crear un proyecto
    ```sh
-   npm install
+   django-admin startproject my_tennis_club
    ```
 4. Enter your API in `config.js`
    ```js
