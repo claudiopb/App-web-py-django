@@ -29,6 +29,7 @@ Linux/macOS:
 
 ### Crear un proyecto Django
 <p>Vamos a crear nuestro primer proyecto con Django </p>
+
 1. Habre un simbolo de sistema de modo administrador.
    
 2. Install NPM packages
