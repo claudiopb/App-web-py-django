@@ -36,7 +36,7 @@ Script para crear un proyecto
    django-admin startproject proyecto_prueba
    ```
 
-##Crear aplicación
+## Crear aplicación
 <p>Voy a nombrar mi aplicación prueba.
 Comience navegando a la ubicación seleccionada donde desea almacenar la aplicación, en mi caso la proyecto_prueba, y ejecute el siguiente comando.</p>
 
