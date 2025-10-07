@@ -12,7 +12,7 @@ Practicas para la construccion de una aplicacion web 5° sem CBTis 191
  [Pagina oficial Django](https://www.djangoproject.com/download/)
 
 
-<h4>Para obtener la última versión oficial</h4>
+<h3>Para obtener la última versión oficial</h3>
 <p>La última versión oficial es la xxxx (LTS). Lea las notas de la versión  y luego instálela con pip :</p>
 
 
@@ -26,16 +26,28 @@ Linux/macOS:
   py -m pip install Django==5.2.7
   ```
 
-
-### Crear un proyecto Django
+## Crear un proyecto Django
 
 <h3>Mi primer proyecto</h3>
 <p>Una vez que hayas elegido un nombre adecuado para tu proyecto Django, como el mío: proyecto_prueba, navega hasta dónde en el sistema de archivos quieres almacenar el código, navegaré hasta la carpeta practicas y ejecutaré este comando en el símbolo del sistema:</p>
 
-1. Script para crear un proyecto
+Script para crear un proyecto
    ```sh
-   django-admin startproject my_tennis_club
+   django-admin startproject proyecto_prueba
    ```
+
+##Crear aplicación
+<p>Voy a nombrar mi aplicación prueba.
+Comience navegando a la ubicación seleccionada donde desea almacenar la aplicación, en mi caso la proyecto_prueba, y ejecute el siguiente comando.</p>
+
+   ```sh
+   python manage.py startapp prueba
+   ```
+
+<p>Si el servidor aún está en ejecución y no puede escribir comandos, presione [CTRL] [BREAK] o [CTRL] [C] para detener el servidor y debería regresar al entorno virtual.</p>
+
+p
+
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
