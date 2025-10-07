@@ -46,16 +46,12 @@ Comience navegando a la ubicación seleccionada donde desea almacenar la aplicac
 
 <p>Si el servidor aún está en ejecución y no puede escribir comandos, presione [CTRL] [BREAK] o [CTRL] [C] para detener el servidor y debería regresar al entorno virtual.</p>
 
-p
+## Ejecutar el proyecto Django
+<p>Ahora que tienes un proyecto Django, puedes ejecutarlo y ver cómo se ve en un navegador.
+Navegue a la /proyecto_prueba y ejecute este comando en el símbolo del sistema:</p>
 
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+   python manage.py runserver
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
