@@ -12,8 +12,8 @@ Practicas para la construccion de una aplicacion web 5° sem CBTis 191
  [Pagina oficial Django](https://www.djangoproject.com/download/)
 
 
-Opción 1: Obtener la última versión oficial
-La última versión oficial es la 5.2.7 (LTS). Lea las notas de la versión 5.2.7 y luego instálela con pip :
+<h4>Para obtener la última versión oficial</h4>
+<p>La última versión oficial es la xxxx (LTS). Lea las notas de la versión  y luego instálela con pip :</p>
 * Linux/macOS:
   ```sh
   python -m pip install Django==5.2.7
