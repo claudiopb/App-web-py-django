@@ -19,22 +19,15 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Inicio</a>
+          <a class="nav-link" href="{% url 'inicio' %}">Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Alumnos</a>
+          <a class="nav-link" href="{% url 'alumnos' %}">Alumnos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Nosotros</a>
+          <a class="nav-link" href="{% url 'nosotros' %}">Nosotros</a>
         </li>  
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Dropdown</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Link</a></li>
-            <li><a class="dropdown-item" href="#">Another link</a></li>
-            <li><a class="dropdown-item" href="#">A third link</a></li>
-          </ul>
-        </li>
+        
       </ul>
     </div>
   </div>
